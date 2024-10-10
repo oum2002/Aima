@@ -24,7 +24,7 @@ By leveraging LLMs, the robot’s emotional intelligence is enhanced to enable m
 ### Example: Furhat Expressing Emotions
 Below is an example of Furhat expressing happiness:
 <p align="center">
-  <img src="./res/Joy.gif" alt="Furhat Expressing Happiness" width="200"/>
+  <img src="./res/Joy.gif" alt="Furhat Expressing Happiness" width="400"/>
   <br/>
   <em>Furhat robot showing a happy facial expression.</em>
 </p>
