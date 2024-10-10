@@ -5,9 +5,6 @@ AIMA is an AI-driven conversational robot designed to detect and manage emotiona
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Datasets](#datasets)
 - [Models](#models)
 - [Training](#training)
@@ -35,17 +32,10 @@ To install the project dependencies, clone the repository and run the following 
 ```bash
 git clone https://github.com/yourusername/AIMA.git
 cd AIMA
-pip install -r requirements.txt
-
-
 $ conda activate aima
 ```
 Install the requirement in the requirement.txt file
 ```bash
 $ pip -r install requirements.txt
 ```
-Run the demonstration file Demo.py 
-```bash
-$ python Demo.py 
-```
-
+Run the Notenook on VSCode or JupyterLab.
