@@ -95,15 +95,19 @@ The following models are used and developed in this project:
 
 ## Installation
 
-To install the project dependencies, clone the repository and run the following command:
-
-```bash
-git clone https://github.com/yourusername/AIMA.git
-cd AIMA
-$ conda activate aima
-```
-Install the requirement in the requirement.txt file
+Create your conda env and Install the requirement in the requirement.txt file
 ```bash
 $ pip -r install requirements.txt
 ```
 Run the Notenooks on VSCode or JupyterLab.
+
+## Hugging Face Model
+
+Our emotion control model is now available on Hugging Face! You can easily load and use it for emotion classification and response generation in conversational AI applications.
+
+### Model Link
+You can access and use the model here:  
+**[AIMA Emotion Control Model on Hugging Face](https://huggingface.co/oumiii/Gemma-7b-FinTuned-ERC)**
+
+### How to Use the Model
+See the Demo.ipynb file.
