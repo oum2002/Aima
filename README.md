@@ -7,9 +7,7 @@ AIMA is an AI-driven conversational robot designed to detect and manage emotiona
 - [Project Overview](#project-overview)
 - [Datasets](#datasets)
 - [Models](#models)
-- [Training](#training)
-- [Contributors](#contributors)
-- [License](#license)
+- [Installation](#installation)
 
 ## Project Overview
 
@@ -38,4 +36,4 @@ Install the requirement in the requirement.txt file
 ```bash
 $ pip -r install requirements.txt
 ```
-Run the Notenook on VSCode or JupyterLab.
+Run the Notenooks on VSCode or JupyterLab.
